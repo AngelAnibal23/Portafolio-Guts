@@ -13,7 +13,6 @@ body{
     overflow: hidden;
 }
 
-
 .main-list{
     list-style: none;
 }
@@ -102,3 +101,5 @@ body::before {
     z-index: -1; /* Envía el pseudoelemento detrás del contenido principal */
     pointer-events: none;
 }
+
+/* comentario */
